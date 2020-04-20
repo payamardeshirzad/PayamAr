@@ -1,0 +1,2 @@
+D:\Projects\0MyProjects\Payamar\Payamar.EntityFramework\obj\Debug\Payamar.EntityFramework.csprojAssemblyReference.cache
+D:\Projects\0MyProjects\Payamar\Payamar.EntityFramework\obj\Debug\Payamar.EntityFramework.csproj.CoreCompileInputs.cache
